@@ -1,5 +1,6 @@
 ## code your solution here. 
 class Cat 
+  
   attr_accessor :name 
   
   def meow
@@ -7,7 +8,3 @@ class Cat
   end 
 end 
 
-
-leo = Cat.new
-leo.name 
-leo.meow
